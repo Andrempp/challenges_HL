@@ -1,0 +1,211 @@
+ipet2
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 3, 'weights': 'uniform'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 1.7973148420726808, 'shrinking': True, 'kernel': 'linear'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.014741554110503973, 'criterion': 'entropy', 'max_depth': 5, 'max_features': 'sqrt', 'min_samples_leaf': 8, 'min_samples_split': 8, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.004013501684495239, 'criterion': 'gini', 'max_depth': 26, 'min_samples_leaf': 1, 'min_samples_split': 14, 'n_estimators': 30}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.4441703329982417, 'n_estimators': 160, 'reg_alpha': 0.00014224483998085676}
+
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 37, 'weights': 'distance'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 48.03418907224943, 'shrinking': False, 'coef0': -12, 'gamma': 'scale', 'kernel': 'poly'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.020524165132323295, 'criterion': 'gini', 'max_depth': 21, 'max_features': None, 'min_samples_leaf': 10, 'min_samples_split': 10, 'splitter': 'random'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.0003539818247349928, 'criterion': 'entropy', 'max_depth': 8, 'min_samples_leaf': 10, 'min_samples_split': 8, 'n_estimators': 80}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'dart', 'eval_metric': 'logloss', 'learning_rate': 0.013459425344205352, 'n_estimators': 440, 'reg_alpha': 0.0020405103105231447}
+
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 11, 'weights': 'distance'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 43.92264214588373, 'shrinking': False, 'gamma': 'scale', 'kernel': 'rbf'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.009531512705214516, 'criterion': 'gini', 'max_depth': 5, 'max_features': 'sqrt', 'min_samples_leaf': 11, 'min_samples_split': 7, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.036267534563691875, 'criterion': 'gini', 'max_depth': 30, 'min_samples_leaf': 1, 'min_samples_split': 13, 'n_estimators': 90}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.0003479924615893205, 'n_estimators': 70, 'reg_alpha': 0.0010295539393645468}
+
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 10, 'weights': 'distance'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 10.38360761199284, 'shrinking': False, 'gamma': 'auto', 'kernel': 'rbf'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.0006121101910697462, 'criterion': 'entropy', 'max_depth': 11, 'max_features': None, 'min_samples_leaf': 9, 'min_samples_split': 15, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.036267534563691875, 'criterion': 'gini', 'max_depth': 30, 'min_samples_leaf': 1, 'min_samples_split': 13, 'n_estimators': 90}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.006704457045207859, 'n_estimators': 450, 'reg_alpha': 0.058411862906206834}
+
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 9, 'weights': 'uniform'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 31.75747692102094, 'shrinking': False, 'gamma': 'auto', 'kernel': 'rbf'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.02825791865618057, 'criterion': 'entropy', 'max_depth': 3, 'max_features': 'sqrt', 'min_samples_leaf': 8, 'min_samples_split': 6, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.03308975756212436, 'criterion': 'entropy', 'max_depth': 4, 'min_samples_leaf': 2, 'min_samples_split': 7, 'n_estimators': 190}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'dart', 'eval_metric': 'logloss', 'learning_rate': 0.1530794727332549, 'n_estimators': 430, 'reg_alpha': 0.0011743059827646353}
+
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 2, 'weights': 'distance'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 4.922572333708587, 'shrinking': False, 'gamma': 'auto', 'kernel': 'rbf'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.0024311847356089625, 'criterion': 'gini', 'max_depth': 22, 'max_features': None, 'min_samples_leaf': 11, 'min_samples_split': 20, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.0009320582159365182, 'criterion': 'entropy', 'max_depth': 24, 'min_samples_leaf': 16, 'min_samples_split': 8, 'n_estimators': 170}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.0014176302911480712, 'n_estimators': 460, 'reg_alpha': 0.0002404871363200588}
+
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 21, 'weights': 'distance'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 64.42346803909481, 'shrinking': False, 'gamma': 'scale', 'kernel': 'rbf'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.0002230226330893275, 'criterion': 'entropy', 'max_depth': 27, 'max_features': 'log2', 'min_samples_leaf': 3, 'min_samples_split': 5, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.03013912617016263, 'criterion': 'entropy', 'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 60}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.22166575733985702, 'n_estimators': 150, 'reg_alpha': 0.0011533633862584136}
+
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 8, 'weights': 'distance'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 75.92552492208576, 'shrinking': True, 'kernel': 'linear'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.0007131884021614814, 'criterion': 'gini', 'max_depth': 39, 'max_features': None, 'min_samples_leaf': 3, 'min_samples_split': 11, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.0001672528177982786, 'criterion': 'gini', 'max_depth': 22, 'min_samples_leaf': 14, 'min_samples_split': 9, 'n_estimators': 140}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'dart', 'eval_metric': 'logloss', 'learning_rate': 0.00833901528271244, 'n_estimators': 210, 'reg_alpha': 0.0009321924046980485}
+
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 22, 'weights': 'uniform'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 99.89817639778879, 'shrinking': False, 'coef0': -13, 'gamma': 'scale', 'kernel': 'poly'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.0013768222833710905, 'criterion': 'entropy', 'max_depth': 38, 'max_features': 'sqrt', 'min_samples_leaf': 8, 'min_samples_split': 5, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.0034728286916784683, 'criterion': 'entropy', 'max_depth': 2, 'min_samples_leaf': 2, 'min_samples_split': 14, 'n_estimators': 50}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.00031405936016883865, 'n_estimators': 110, 'reg_alpha': 0.0002692640031488997}
+
+Dummy - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'strategy': 'uniform'}
+
+GaussianNB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'n_neighbors': 32, 'weights': 'distance'}
+
+SVC - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'C': 96.89570833224583, 'shrinking': True, 'coef0': -12, 'gamma': 'scale', 'kernel': 'poly'}
+
+DecisionTree - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.00023800977616675586, 'criterion': 'entropy', 'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 14, 'min_samples_split': 16, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'ccp_alpha': 0.010217717216396346, 'criterion': 'entropy', 'max_depth': 30, 'min_samples_leaf': 12, 'min_samples_split': 12, 'n_estimators': 30}
+
+XGB - {'score': <function f1_score at 0x7f648fa1eb80>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.2555746998211256, 'n_estimators': 490, 'reg_alpha': 0.04208042839311348}
+

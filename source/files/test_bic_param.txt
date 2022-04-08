@@ -1,0 +1,31 @@
+ipet2
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 43.45237295952159, 'shrinking': True, 'coef0': -2, 'gamma': 'auto', 'kernel': 'poly'}
+
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 22.843302901843547, 'shrinking': True, 'coef0': 8, 'gamma': 'scale', 'kernel': 'poly'}
+
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 7.418519016701352, 'shrinking': True, 'kernel': 'linear'}
+
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 21.563111268453465, 'shrinking': False, 'coef0': 5, 'gamma': 'scale', 'kernel': 'poly'}
+
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 45.13413981610104, 'shrinking': False, 'coef0': 0, 'gamma': 'scale', 'kernel': 'poly'}
+
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 37.238051568185334, 'shrinking': True, 'coef0': -2, 'gamma': 'auto', 'kernel': 'poly'}
+
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 56.476190408772666, 'shrinking': False, 'coef0': -2, 'gamma': 'scale', 'kernel': 'poly'}
+
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 98.49440196598842, 'shrinking': True, 'coef0': 2, 'gamma': 'auto', 'kernel': 'poly'}
+
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 7.418519016701352, 'shrinking': True, 'kernel': 'linear'}
+
+SVC - {'score': <function f1_score at 0x7f7cb3930940>}
+{'C': 7.418519016701352, 'shrinking': True, 'kernel': 'linear'}
+

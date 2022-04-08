@@ -1,0 +1,1 @@
+{"ccp_alpha": 0.00021513756132666035, "criterion": "entropy", "max_depth": 16, "min_samples_leaf": 6, "min_samples_split": 0.09098258328529119, "n_estimators": 60}

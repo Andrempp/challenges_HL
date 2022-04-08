@@ -1,0 +1,1 @@
+{"booster": "gbtree", "eval_metric": "logloss", "learning_rate": 0.8969912202763688, "n_estimators": 220, "reg_alpha": 0.00010338143797679846}

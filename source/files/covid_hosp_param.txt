@@ -1,0 +1,7 @@
+Hospitalisation
+Dummy - {'score': <function f1_score at 0x7fb1774f31f0>}
+{}
+
+GaussianNB - {'score': <function f1_score at 0x7fb1774f31f0>}
+{}
+

@@ -1,0 +1,1 @@
+{"ccp_alpha": 0.00021925515550170782, "criterion": "gini", "max_depth": 20, "min_samples_leaf": 5, "min_samples_split": 0.08731600696370652, "n_estimators": 190}

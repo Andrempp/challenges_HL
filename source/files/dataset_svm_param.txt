@@ -1,0 +1,601 @@
+ipet2
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+
+Dummy - {'score': <function f1_score at 0x7fed11a4ea60>}
+{'strategy': 'uniform'}
+

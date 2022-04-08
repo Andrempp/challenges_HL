@@ -1,0 +1,10 @@
+Outcome
+XGB - {'score': <function f1_score at 0x7f99c86271f0>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.23976459628408697, 'n_estimators': 130, 'reg_alpha': 0.0033590318709035842}
+
+XGB - {'score': <function f1_score at 0x7f99c86271f0>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.42639304308304343, 'n_estimators': 50, 'reg_alpha': 0.0015454903459895626}
+
+XGB - {'score': <function f1_score at 0x7f99c86271f0>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.2653937754510396, 'n_estimators': 80, 'reg_alpha': 0.0001744698968308317}
+

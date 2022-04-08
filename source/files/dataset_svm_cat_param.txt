@@ -1,0 +1,73 @@
+ipet2
+GaussianNB - {'score': <function f1_score at 0x7fef6eb431f0>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7fef6eb431f0>}
+{'n_neighbors': 37, 'weights': 'distance'}
+
+SVC - {'score': <function f1_score at 0x7fef6eb431f0>}
+{'C': 63.46496340069705, 'shrinking': False, 'coef0': 17, 'gamma': 'auto', 'kernel': 'poly'}
+
+DecisionTree - {'score': <function f1_score at 0x7fef6eb431f0>}
+{'ccp_alpha': 0.0007778556042396464, 'criterion': 'entropy', 'max_depth': 31, 'max_features': 'sqrt', 'min_samples_leaf': 9, 'min_samples_split': 0.03381315565173625, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'ccp_alpha': 0.0004012352619038812, 'criterion': 'entropy', 'max_depth': 6, 'min_samples_leaf': 4, 'min_samples_split': 0.02412419619359343, 'n_estimators': 160}
+
+RandomForest - {'score': <function f1_score at 0x7fef6eb431f0>}
+{'ccp_alpha': 0.0006469953935721961, 'criterion': 'gini', 'max_depth': 12, 'min_samples_leaf': 1, 'min_samples_split': 0.08772151069341984, 'n_estimators': 200}
+
+XGB - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.038137898462487975, 'n_estimators': 120, 'reg_alpha': 0.027848478214774538}
+
+GaussianNB - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'n_neighbors': 24, 'weights': 'distance'}
+
+SVC - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'C': 63.07012706757114, 'shrinking': True, 'kernel': 'linear'}
+
+DecisionTree - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'ccp_alpha': 0.00047773822309283344, 'criterion': 'entropy', 'max_depth': 5, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'min_samples_split': 0.09245175728113197, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'ccp_alpha': 0.00018368571941734086, 'criterion': 'entropy', 'max_depth': 20, 'min_samples_leaf': 10, 'min_samples_split': 0.04716393664291585, 'n_estimators': 100}
+
+XGB - {'score': <function f1_score at 0x7fef6eb431f0>}
+{'booster': 'dart', 'eval_metric': 'logloss', 'learning_rate': 0.35215689335293965, 'n_estimators': 380, 'reg_alpha': 0.000706832730067367}
+
+GaussianNB - {'score': <function f1_score at 0x7fef6eb431f0>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7fef6eb431f0>}
+{'n_neighbors': 27, 'weights': 'uniform'}
+
+SVC - {'score': <function f1_score at 0x7fef6eb431f0>}
+{'C': 26.14209880877689, 'shrinking': True, 'coef0': 19, 'gamma': 'scale', 'kernel': 'poly'}
+
+DecisionTree - {'score': <function f1_score at 0x7fef6eb431f0>}
+{'ccp_alpha': 0.06542411228753428, 'criterion': 'entropy', 'max_depth': 16, 'max_features': None, 'min_samples_leaf': 10, 'min_samples_split': 0.035519053411607875, 'splitter': 'best'}
+
+XGB - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'booster': 'gbtree', 'eval_metric': 'logloss', 'learning_rate': 0.023395016121794628, 'n_estimators': 400, 'reg_alpha': 0.0006040966156861338}
+
+GaussianNB - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{}
+
+KNeighbors - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'n_neighbors': 31, 'weights': 'uniform'}
+
+SVC - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'C': 14.035660157625923, 'shrinking': True, 'kernel': 'linear'}
+
+DecisionTree - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'ccp_alpha': 0.00028205428934203233, 'criterion': 'gini', 'max_depth': 27, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 0.01753609313297713, 'splitter': 'best'}
+
+RandomForest - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'ccp_alpha': 0.0011546364027603408, 'criterion': 'entropy', 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 0.016970549773526144, 'n_estimators': 200}
+
+XGB - {'score': <function f1_score at 0x7fc934cdf1f0>}
+{'booster': 'dart', 'eval_metric': 'logloss', 'learning_rate': 0.00048387087070858657, 'n_estimators': 330, 'reg_alpha': 0.08085470626260309}
+

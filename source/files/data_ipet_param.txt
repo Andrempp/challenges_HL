@@ -1,0 +1,4 @@
+ipet2
+KNeighbors - {'score': <function f1_score at 0x7f902ef21700>}
+{}
+
